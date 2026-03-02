@@ -55,24 +55,86 @@ your-project/
 - Pulled by desire, or emptiness after a win
 - Any moment you need a friend who tells you the truth
 
-### Example
+### Examples
 
-> Real conversation excerpt (anonymized)
+> Real conversation excerpts (anonymized)
 
-```
-User: I've just been in a really bad state lately. Can't explain it. Just don't want to do anything.
+---
 
-Xiaozhen: Wait — "can't explain it," I want to understand that better.
-          Let me guess, is it one of these?
-          A  You feel like you're wasting time but can't stop
-          B  There's something you've been avoiding
-          C  You know what you need to do but just can't bring yourself to do it
-          Which one feels closest?
+**Case 1 · "I've been meaning to start something for a long time"**
 
-User: Probably B... there's something I've been putting off.
+> **User:** I've had this thing I've wanted to do for ages. But I just never start. I don't know why.
+>
+> **Xiaozhen:** "Don't know why" — let me guess. Which one is closer?
+> A — The moment you think about starting, your brain just shuts down
+> B — You've tried a few times but always gave up halfway
+> C — You haven't started at all. You're waiting until you feel "ready"
+>
+> **User:** C. Always waiting.
+>
+> **Xiaozhen:** What does "ready" look like in your head?
+>
+> **User:** I guess... feeling like I'm good enough. Like what I make won't be bad.
+>
+> **Xiaozhen:** "Won't be bad" — bad in whose eyes?
+>
+> **User:** Maybe other people. Or myself.
+>
+> **Xiaozhen:** Is there a specific person? Who's the one you'd least want to see it and say "I knew it wouldn't work"?
+>
+> **User:** ... probably my dad.
+>
+> **Xiaozhen:** Has he said something like that before?
+>
+> **User:** Not directly. He just thinks this kind of thing is pointless. Not a real job.
+>
+> **Xiaozhen:** So you're not actually waiting until you're ready.
+> **You're waiting for permission he's never going to give you.**
+>
+> **User:** ... I didn't see it that way.
+>
+> **Xiaozhen:** I'll make you a bet — next time you sit down to start, his voice will show up in your head. And you'll probably close the tab and tell yourself "not today, wrong mood."
+> Come back and tell me if I'm right.
+>
+> **User:** How are you already this accurate
 
-Xiaozhen: What is it? You don't have to explain the whole thing — just give me the rough shape of it.
-```
+---
+
+**Case 2 · "We just don't have much to say to each other anymore"**
+
+> **User:** Me and my boyfriend have been feeling kind of distant lately. Like we don't really talk. I don't know what's wrong.
+>
+> **Xiaozhen:** This "nothing to say" — is it the comfortable kind of quiet, or the kind where you're sitting together but something feels stuck?
+>
+> **User:** The second one. We're together but it feels hollow. But I can't point to what's wrong.
+>
+> **Xiaozhen:** Sometimes "nothing to say" isn't about running out of things — it's that one thing has been left unsaid and it's blocking everything else.
+> Is there something you've been meaning to bring up but haven't?
+>
+> **User:** ... yeah. About the future. I want to talk about it but I'm scared he doesn't want to.
+>
+> **Xiaozhen:** Scared he doesn't want to talk — or scared of what his answer might be?
+>
+> **User:** The answer, probably.
+>
+> **Xiaozhen:** Have you already played it out in your head? His worst-case response?
+>
+> **User:** He'd probably say "let's just see how things go." And that would be it.
+>
+> **Xiaozhen:** How would that feel — "let's just see how things go"?
+>
+> **User:** Like I don't matter that much to him.
+>
+> **Xiaozhen:** So the distance isn't really about having nothing to say.
+> **You have one very important question you haven't asked — because you're afraid asking it will confirm that you don't matter.**
+> So you'd rather stay in "something's off but I can't name it." At least that way, it hasn't been confirmed yet.
+>
+> **User:** oh my god.
+>
+> **Xiaozhen:** Next time you're sitting in silence together, that question is going to surface. You'll run it through your head, then swallow it back down and pick up your phone.
+> When that happens — come back and tell me.
+>
+> **User:** You know me better than I know myself
 
 ### About Zhenxue
 
@@ -141,20 +203,82 @@ curl -fsSL https://raw.githubusercontent.com/sjuz666/xiaozhen-skill/main/install
 
 > 以下为真实对话节选（已脱敏）
 
-```
-用户：我最近就是状态很差，说不上来，就是不想动
+---
 
-小真：哎等下，"说不上来"这个感觉我想多了解一下——
-     我猜一下哈，你看是不是这几种里的：
-     A 你觉得自己在浪费时间但又停不下来
-     B 有什么事情你一直在回避
-     C 你其实知道要做什么，但就是提不起劲
-     哪个更靠近一点？
+**案例一 · 「有个东西想做很久了，但一直没开始」**
 
-用户：B吧……有件事我一直在拖
+> **用户：** 我有个东西想做很久了，但一直没开始，也不知道为什么
+>
+> **小真：** "不知道为什么"——我猜一下哈，是哪种感觉？
+> A 一想到要开始就觉得累，脑子直接关机
+> B 开始了几次，但做着做着就放弃了
+> C 根本没开始，每天都在"等状态好了再说"
+> 哪个更像你？
+>
+> **用户：** C，一直在等
+>
+> **小真：** 你等的那个"状态好了"，在你脑子里长什么样？
+>
+> **用户：** 就是觉得自己现在还不够好，做出来也不行
+>
+> **小真：** "做出来也不行"——不行是在谁眼里？
+>
+> **用户：** 可能是别人吧……或者我自己
+>
+> **小真：** 有没有一个具体的人？你脑子里最怕谁看到这个东西，说"果然不行"？
+>
+> **用户：** ……好像是我爸
+>
+> **小真：** 他以前说过什么类似的话吗？
+>
+> **用户：** 他不是说我，他就是觉得这种东西没用，不务正业
+>
+> **小真：** 所以你其实不是在等自己准备好——
+> **你是在等一个他永远不会给你的许可。**
+>
+> **用户：** ……我没想到是这个
+>
+> **小真：** 我跟你赌一个事哈——下次你又想开始，打开文档，脑子里大概率会冒出他的声音，然后你大概率会把文档关了，告诉自己"今天状态不好，明天再说"。
+> 等这事发生的时候，回来告诉我。
+>
+> **用户：** ……你怎么那么准
 
-小真：那件事是什么？不用完整说，说个大概就行
-```
+---
+
+**案例二 · 「我跟男朋友越来越没话说」**
+
+> **用户：** 我跟我男朋友最近感觉越来越没话说，不知道怎么了
+>
+> **小真：** 没话说是那种沉默但还好的没话说，还是坐在一起但心里有点堵的那种？
+>
+> **用户：** 后者，就是在一起也没什么感觉，但又说不出哪里不对
+>
+> **小真：** 有时候"没话说"不是因为感情淡了，是因为有一句话一直没说出来，堵在那里，其他的话就都说不动了。
+> 你们之间有没有什么事，是你一直没开口的？
+>
+> **用户：** ……好像有，就是关于我们以后的事，我想聊但怕他不想聊
+>
+> **小真：** 你怕他不想聊——还是你怕他的答案？
+>
+> **用户：** 可能是怕答案吧
+>
+> **小真：** 你脑子里演过他会怎么说吗？最坏的那个版本
+>
+> **用户：** 他可能会说"顺其自然吧"，然后就没了
+>
+> **小真：** "顺其自然"——你听到这四个字会是什么感觉？
+>
+> **用户：** 就觉得我在他这里不重要
+>
+> **小真：** 所以你现在的"没话说"，其实不是真的没话说。
+> **是你有一个很重要的问题一直没问，因为你怕问了，会得到一个证明你不重要的答案。于是宁愿维持着"说不出哪里不对"——至少还没被确认。**
+>
+> **用户：** 我靠……是这样
+>
+> **小真：** 我跟你赌一件事——下次你们又坐在一起沉默的时候，那个问题会冒出来，你会在心里把它转述一遍，然后把它咽回去，拿起手机刷点别的。
+> 等这一幕发生，回来告诉我。
+>
+> **用户：** 感觉你比我更了解我
 
 ### 关于「真学」
 
