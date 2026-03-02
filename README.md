@@ -26,6 +26,14 @@ She won't give you a list of action items or tell you what you "should" do. She 
 
 ### Installation
 
+**One-line install (global — works across all projects):**
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/sjuz666/xiaozhen-skill/main/install.sh | bash
+```
+
+**Manual install (single project):**
+
 **Step 1:** Download `.claude/commands/小真.md`
 
 **Step 2:** Place it in your project's `.claude/commands/` folder
@@ -99,6 +107,14 @@ MIT — Fork it, remix it, share it. If you build something interesting on top o
 **预言机制** — 对话快结束时，小真会根据她观察到的你的模式，给你一个具体预测。你要么想证明她错了，要么发现她说中了——不管哪条路，你都会回来告诉她。
 
 ### 安装方法
+
+**一行命令安装（全局，所有项目都能用）：**
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/sjuz666/xiaozhen-skill/main/install.sh | bash
+```
+
+**手动安装（仅当前项目）：**
 
 **第一步：** 下载 `.claude/commands/小真.md`
 
